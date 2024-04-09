@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-HellotestApplication<hellotest>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "fi.haagahelia.course.HellotestApplication",
+      "projectName": "hellotest",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
